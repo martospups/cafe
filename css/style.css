@@ -257,3 +257,55 @@ line-height: 150%; /* 24px */
 }
 .mobile_picture {
 }
+
+/* -------------------------------Footer */
+
+.footer {
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.container {
+}
+.footer__inner {
+    display: flex;
+    background: #665F55;
+    border-radius: 40px;
+    padding: 100px;
+}
+.left_blok {
+    margin-right: 100px;
+}
+.left_blok_title {
+color: #B0907A;
+font-size: 60px;
+font-style: italic;
+font-weight: 600;
+line-height: 125%;
+margin-bottom: 40px;
+}
+.left_blok_title h1{
+font-style: normal;
+color: #E1D4C9;
+}
+.left_blok_button {
+}
+.right_blok {
+ color: #E1D4C9;
+ display: flex;
+ justify-content:space-evenly;
+ flex-direction: column;
+}
+.right_blok_text {
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 125%; /* 30px */
+margin-bottom: 40px;
+}
+.right_blok_location {
+}
+.right_blok_phone {
+    margin: 16px 0px;
+}
+.right_blok_watch {
+}
